@@ -54,7 +54,7 @@ export const SearchResults = () => {
                 : 'btn-outline-primary'
             }`}
           >
-            Location
+            Show the route
           </button>
         </li>
       ))}
